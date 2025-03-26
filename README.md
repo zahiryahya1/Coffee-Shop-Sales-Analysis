@@ -4,7 +4,6 @@
 
 ##### Type: Data Cleaning, Exploratory Data Analysis
 
-<div id="toc">
 ## Table of Contents
 - [Home](#Project-Report)
 - [Background](##Background)
@@ -13,7 +12,6 @@
 - [Analysis](##Analysis)
 - [Recommendations](##Recommendations)
 - [Clarifying Questions](##Clarifying-Questions)
-</div>
 
 ## Background
 
