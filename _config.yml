@@ -1,7 +1,6 @@
 title: Coffee Shop Sales Analysis
 logo: #path to picture 
-show_download: True
+show_download: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  jeky11-remote-theme
-  
+- jeky11-remote-theme
