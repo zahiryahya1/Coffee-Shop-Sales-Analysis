@@ -1,8 +1,8 @@
 # Project Report
 
-### Tools: SQL
+##### Tools: SQL
 
-### Type: Data Cleaning, Exploratory Data Analysis
+##### Type: Data Cleaning, Exploratory Data Analysis
 
 ## Background
 
