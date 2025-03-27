@@ -11,7 +11,7 @@
 4. [Data Source](##Data-source)
 5. [Analysis](##Analysis)
 6. [Recommendations](##Recommendations)
-7. [Clarifying Questions](Clarifying-Questions,-Assumptions,-and-Caveats)
+7. [Clarifying Questions, Assumptions, and Caveats](##Clarifying-Questions,-Assumptions,-and-Caveats)
 
 ## Background
 
