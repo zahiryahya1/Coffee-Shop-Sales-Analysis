@@ -46,7 +46,9 @@ The dataset used for this analysis contains 149,116 transaction records spanning
 - product_type: Type of product
 - product_detail: Specific details about the product
 
-##### Data cleaning and processing were performed using MySQL:
+#### Data cleaning and processing were performed using MySQL:
+
+
 
 - converting string-based date values into proper datetime formats
 - checking for duplicates, missing, or inconsistent entries.
