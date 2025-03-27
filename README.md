@@ -11,7 +11,7 @@
 4. [Data Source](##Data-source)
 5. [Analysis](##Analysis)
 6. [Recommendations](##Recommendations)
-7. [Clarifying Questions](##Clarifying-Questions)
+7. [Clarifying Questions](Clarifying-Questions,-Assumptions,-and-Caveats)
 
 ## Background
 
@@ -68,18 +68,18 @@ The dataset used for this analysis contains 149,116 transaction records spanning
     - Winter vs spring?
     - Daylight savings? March xxx
    
-3. Monthly Sales Breakdown
+### 3. Monthly Sales Breakdown
   - Total quantity of items sold in March: 30.4k
   - Month-over-month change in quantity sold: 29.1% increase
   - Top-selling product category: Barista Espresso
   - Top 5 products for the month: 
-    1. Barista Espresso
-    2. Brewed Chai tea
-    3. Hot chocolate
-    4. Gourmet brewed coffee
-    5. Brewed herbal tea
+      1. Barista Espresso
+      2. Brewed Chai tea
+      3. Hot chocolate
+      4. Gourmet brewed coffee
+      5. Brewed herbal tea
 
-4. Daily Revenue Trends
+### 4. Daily Revenue Trends
   - Highest and lowest revenue days: 
     - Lowest: $2.49k on Wednesday March 29 2023
     - Highest: 3.67k on Monday March 27 2023
@@ -92,7 +92,7 @@ The dataset used for this analysis contains 149,116 transaction records spanning
     - Saturday:
     - Sunday:
       
-5. Revenue by Day of the Week
+### 5. Revenue by Day of the Week
   - Total revenue by weekday vs. weekend: 
     - Weekday: 73.3k
     - Weekend: 25.5k
@@ -103,13 +103,13 @@ The dataset used for this analysis contains 149,116 transaction records spanning
     - Best: Fridays
     - Worse: Tuesdays
 
-6. Store Location Performance
+### 6. Store Location Performance
   - Revenue by store location: 
     - Hell's Kitchen: $33.1k
     - Lower Manhattan: $32.9k
     - Astoria: $32.8k
 
-7. Hourly Sales Analysis
+### 7. Hourly Sales Analysis
 Total revenue for each hour of the day:
 
 Peak sales hour: 7 am to 10am between 9k and 13k sales. 
