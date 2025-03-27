@@ -48,19 +48,17 @@ The dataset used for this analysis contains 149,116 transaction records spanning
 
 #### Data cleaning and processing were performed using MySQL:
 
-
-
 - converting string-based date values into proper datetime formats
 - checking for duplicates, missing, or inconsistent entries.
 
 ## Analysis: Insight Deep-Dive
 
-1. Total Sales in March
+### 1. Total Sales in March
   - Total revenue: $98.83k
   - Total transactions: $21.23k
   - Average revenue per transaction: $4.66
     
-2. Month-over-Month Sales Performance
+### 2. Month-over-Month Sales Performance
   - Revenue change from February to March: 29.8% increase
   - Revenue change from March to April: [placeholder]
   - Change in the number of transactions from February to March:
