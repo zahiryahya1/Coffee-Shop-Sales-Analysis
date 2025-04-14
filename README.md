@@ -6,11 +6,11 @@
 
 ## Table of Contents
 1. [Home](#Project-Report)
-2. [Background](##Background)
-3. [Executive Summary](##Executive-summary)
-4. [Data Source](##Data-source)
-5. [Analysis](##Analysis)
-6. [Recommendations](##Recommendations)
+2. [Background](#Background)
+3. [Executive Summary](#Executive-summary)
+4. [Data Source](#Data-source)
+5. [Analysis](#Analysis)
+6. [Recommendations](#Recommendations)
 7. [Clarifying Questions, Assumptions, and Caveats](##Clarifying-Questions,-Assumptions,-and-Caveats)
 
 ## Background
