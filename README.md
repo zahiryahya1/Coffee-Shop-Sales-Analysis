@@ -9,7 +9,7 @@
 2. [Background](#Background)
 3. [Executive Summary](#Executive-Summary)
 4. [Data Source](#Data-Source)
-5. [Analysis](#Analysis:-Insight-Deep-Dive)
+5. [Analysis](#Analysis-Insight-Deep-Dive)
 6. [Recommendations](#Recommendations)
 7. [Clarifying Questions, Assumptions, and Caveats](#Clarifying-Questions,-Assumptions,-and-Caveats)
 
@@ -51,7 +51,7 @@ The dataset used for this analysis contains 149,116 transaction records spanning
 - converting string-based date values into proper datetime formats
 - checking for duplicates, missing, or inconsistent entries.
 
-## Analysis: Insight Deep-Dive
+## Analysis Insight Deep-Dive
 
 ### 1. Total Sales in March
   - Total revenue: $98.83k
