@@ -142,5 +142,5 @@ Based on the exploratory analysis, the following preliminary recommendations can
 - Operational details, such as staffing levels during peak times.
 
 
-(insert linebreak or footer) 
+---
 This report serves as an initial exploration of the coffee shop’s sales data. Future analysis will include a more in-depth study, visualizations, and a Dashboard to provide actionable insights for business strategy.
